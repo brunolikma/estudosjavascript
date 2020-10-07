@@ -7,5 +7,6 @@ console.log(IDADE+2);
 console.log(IDADE-2);
 console.log(IDADE*2);
 console.log(IDADE/2);
+console.log(IDADE/2);
 
 
