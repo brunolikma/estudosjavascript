@@ -9,8 +9,8 @@ const numero8 = 8;
 const numero9 = 9;
 const numero10 = 10;
 
-console.log ("Tabuada do 1: " + numero1 * numero1);
-console.log ("Tabuada do 1: " + numero1 * numero2);
+console.log ("Tabuada do 1x1: " + numero1 * numero1);
+console.log ("Tabuada do 1x2: " + numero1 * numero2);
 console.log ("Tabuada do 1: " + numero1 * numero3);
 console.log ("Tabuada do 1: " + numero1 * numero4);
 console.log ("Tabuada do 1: " + numero1 * numero5);
