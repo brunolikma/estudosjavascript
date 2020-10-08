@@ -1,0 +1,21 @@
+const numero1 = 1;
+const numero2 = 2;
+const numero3 = 3;
+const numero4 = 4;
+const numero5 = 5;
+const numero6 = 6;
+const numero7 = 7;
+const numero8 = 8;
+const numero9 = 9;
+const numero10 = 10;
+
+console.log ("Tabuada do 1: " + numero1 * numero1);
+console.log ("Tabuada do 1: " + numero1 * numero2);
+console.log ("Tabuada do 1: " + numero1 * numero3);
+console.log ("Tabuada do 1: " + numero1 * numero4);
+console.log ("Tabuada do 1: " + numero1 * numero5);
+console.log ("Tabuada do 1: " + numero1 * numero6);
+console.log ("Tabuada do 1: " + numero1 * numero7);
+console.log ("Tabuada do 1: " + numero1 * numero8);
+console.log ("Tabuada do 1: " + numero1 * numero9);
+console.log ("Tabuada do 1: " + numero1 * numero10);
